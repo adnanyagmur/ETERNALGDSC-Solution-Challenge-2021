@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "468470830900",
+    "firebase_url": "https://primal-catfish-298107-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "primal-catfish-298107",
+    "storage_bucket": "primal-catfish-298107.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468470830900:android:a6331efe49f2e300f93761",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468470830900-luogpr5aghbadvqbc14m96slh79pb4sv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk7CDp4UFJfpu6SiKUrRSDsONHlkXZv2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468470830900-luogpr5aghbadvqbc14m96slh79pb4sv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
