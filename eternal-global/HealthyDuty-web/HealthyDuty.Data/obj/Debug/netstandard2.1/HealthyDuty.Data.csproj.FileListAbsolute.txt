@@ -1,0 +1,18 @@
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Data\bin\Debug\netstandard2.1\HealthyDuty.Data.deps.json
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Data\bin\Debug\netstandard2.1\HealthyDuty.Data.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Data\obj\Debug\netstandard2.1\HealthyDuty.Data.AssemblyInfoInputs.cache
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Data\obj\Debug\netstandard2.1\HealthyDuty.Data.AssemblyInfo.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Data\bin\Debug\netstandard2.1\HealthyDuty.Data.pdb
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Data\obj\Debug\netstandard2.1\HealthyDuty.Data.csproj.CoreCompileInputs.cache
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Data\obj\Debug\netstandard2.1\HealthyDuty.Data.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Data\obj\Debug\netstandard2.1\HealthyDuty.Data.pdb
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Data\obj\Debug\netstandard2.1\HealthyDuty.Data.csprojAssemblyReference.cache
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Data\bin\Debug\netstandard2.1\HealthyDuty.Data.deps.json
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Data\bin\Debug\netstandard2.1\HealthyDuty.Data.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Data\bin\Debug\netstandard2.1\HealthyDuty.Data.pdb
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Data\obj\Debug\netstandard2.1\HealthyDuty.Data.csprojAssemblyReference.cache
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Data\obj\Debug\netstandard2.1\HealthyDuty.Data.AssemblyInfoInputs.cache
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Data\obj\Debug\netstandard2.1\HealthyDuty.Data.AssemblyInfo.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Data\obj\Debug\netstandard2.1\HealthyDuty.Data.csproj.CoreCompileInputs.cache
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Data\obj\Debug\netstandard2.1\HealthyDuty.Data.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Data\obj\Debug\netstandard2.1\HealthyDuty.Data.pdb

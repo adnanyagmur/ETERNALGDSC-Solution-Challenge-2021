@@ -1,0 +1,24 @@
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web.Business\bin\Debug\netstandard2.1\HealthyDuty.Web.Business.deps.json
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web.Business\bin\Debug\netstandard2.1\HealthyDuty.Web.Business.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web.Business\bin\Debug\netstandard2.1\HealthyDuty.Data.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web.Business\bin\Debug\netstandard2.1\HealthyDuty.Data.pdb
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web.Business\obj\Debug\netstandard2.1\HealthyDuty.Web.Business.csprojAssemblyReference.cache
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web.Business\obj\Debug\netstandard2.1\HealthyDuty.Web.Business.AssemblyInfoInputs.cache
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web.Business\obj\Debug\netstandard2.1\HealthyDuty.Web.Business.AssemblyInfo.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web.Business\obj\Debug\netstandard2.1\HealthyDuty.Web.Business.csproj.CopyComplete
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web.Business\bin\Debug\netstandard2.1\HealthyDuty.Web.Business.pdb
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web.Business\obj\Debug\netstandard2.1\HealthyDuty.Web.Business.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web.Business\obj\Debug\netstandard2.1\HealthyDuty.Web.Business.pdb
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web.Business\obj\Debug\netstandard2.1\HealthyDuty.Web.Business.csproj.CoreCompileInputs.cache
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web.Business\bin\Debug\netstandard2.1\HealthyDuty.Web.Business.deps.json
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web.Business\bin\Debug\netstandard2.1\HealthyDuty.Web.Business.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web.Business\bin\Debug\netstandard2.1\HealthyDuty.Web.Business.pdb
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web.Business\bin\Debug\netstandard2.1\HealthyDuty.Data.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web.Business\bin\Debug\netstandard2.1\HealthyDuty.Data.pdb
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web.Business\obj\Debug\netstandard2.1\HealthyDuty.Web.Business.csprojAssemblyReference.cache
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web.Business\obj\Debug\netstandard2.1\HealthyDuty.Web.Business.AssemblyInfoInputs.cache
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web.Business\obj\Debug\netstandard2.1\HealthyDuty.Web.Business.AssemblyInfo.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web.Business\obj\Debug\netstandard2.1\HealthyDuty.Web.Business.csproj.CoreCompileInputs.cache
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web.Business\obj\Debug\netstandard2.1\HealthyDuty.Web.Business.csproj.CopyComplete
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web.Business\obj\Debug\netstandard2.1\HealthyDuty.Web.Business.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web.Business\obj\Debug\netstandard2.1\HealthyDuty.Web.Business.pdb

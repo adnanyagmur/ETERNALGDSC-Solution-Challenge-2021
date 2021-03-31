@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pHOHiC9IkpYJrAQUyx3s90ChY9dkEQdJKJRLn0bZHK5/U0/EkIkpTa/fbPFcrJ5hF0tB7vlyuIqPB/xIm1P5zA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sinem\\OneDrive\\Masaüstü\\HealthyDuty\\_doc\\_doc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sinem\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\sinem\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

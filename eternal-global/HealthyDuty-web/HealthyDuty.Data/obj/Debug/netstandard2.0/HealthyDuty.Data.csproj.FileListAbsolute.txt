@@ -1,0 +1,9 @@
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Data\bin\Debug\netstandard2.0\HealthyDuty.Data.deps.json
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Data\bin\Debug\netstandard2.0\HealthyDuty.Data.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Data\bin\Debug\netstandard2.0\HealthyDuty.Data.pdb
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Data\obj\Debug\netstandard2.0\HealthyDuty.Data.csprojAssemblyReference.cache
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Data\obj\Debug\netstandard2.0\HealthyDuty.Data.AssemblyInfoInputs.cache
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Data\obj\Debug\netstandard2.0\HealthyDuty.Data.AssemblyInfo.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Data\obj\Debug\netstandard2.0\HealthyDuty.Data.csproj.CoreCompileInputs.cache
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Data\obj\Debug\netstandard2.0\HealthyDuty.Data.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Data\obj\Debug\netstandard2.0\HealthyDuty.Data.pdb

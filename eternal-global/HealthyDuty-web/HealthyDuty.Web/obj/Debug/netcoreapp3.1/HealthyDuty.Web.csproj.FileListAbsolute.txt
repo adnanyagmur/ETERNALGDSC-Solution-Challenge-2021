@@ -1,0 +1,874 @@
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\HealthyDuty.Web.exe
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\System.Linq.Dynamic.Core.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\HealthyDuty.Data.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\HealthyDuty.Web.Business.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\HealthyDuty.Web.Business.pdb
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\HealthyDuty.Data.pdb
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\HealthyDuty.Web.csprojAssemblyReference.cache
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\HealthyDuty.Web.AssemblyInfoInputs.cache
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\HealthyDuty.Web.AssemblyInfo.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\HealthyDuty.Web.RazorAssemblyInfo.cache
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\HealthyDuty.Web.RazorAssemblyInfo.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\HealthyDuty.Web.TagHelpers.input.cache
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\HealthyDuty.Web.TagHelpers.output.cache
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\HealthyDuty.Web.RazorCoreGenerate.cache
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\HealthyDuty.Web.RazorTargetAssemblyInfo.cache
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\HealthyDuty.Web.RazorTargetAssemblyInfo.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\HealthyDuty.Web.csproj.CopyComplete
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\staticwebassets\HealthyDuty.Web.StaticWebAssets.Manifest.cache
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\staticwebassets\HealthyDuty.Web.StaticWebAssets.xml
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\HealthyDuty.Web.deps.json
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\HealthyDuty.Web.runtimeconfig.json
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\HealthyDuty.Web.runtimeconfig.dev.json
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\HealthyDuty.Web.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\HealthyDuty.Web.pdb
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\HealthyDuty.Web.Views.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\HealthyDuty.Web.Views.pdb
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\HealthyDuty.Web.csproj.CoreCompileInputs.cache
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\HealthyDuty.Web.MvcApplicationPartsAssemblyInfo.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\HealthyDuty.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Personnel\Login.cshtml.g.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Personnel\NotAuthorized.cshtml.g.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout1.cshtml.g.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\HealthyDuty.Web.Views.pdb
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\HealthyDuty.Web.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\HealthyDuty.Web.pdb
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\HealthyDuty.Web.genruntimeconfig.cache
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Add.cshtml.g.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Edit.cshtml.g.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Auth\List.cshtml.g.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Auth\_ErrorNotExist.cshtml.g.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Auth\_PagingPartial.cshtml.g.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ErrorMessagePartial.cshtml.g.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\BloodGroup\Add.cshtml.g.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\BloodGroup\Edit.cshtml.g.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\BloodGroup\List.cshtml.g.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\BloodGroup\_ErrorNotExist.cshtml.g.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\BloodGroup\_PagingPartial.cshtml.g.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Personnel\Add.cshtml.g.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Personnel\Edit.cshtml.g.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Personnel\List.cshtml.g.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Personnel\_ErrorNotExist.cshtml.g.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Personnel\_PagingPartial.cshtml.g.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\City\Add.cshtml.g.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\City\Edit.cshtml.g.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\City\List.cshtml.g.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\City\_ErrorNotExist.cshtml.g.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\City\_PagingPartial.cshtml.g.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Hospital\Add.cshtml.g.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Hospital\Edit.cshtml.g.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Hospital\List.cshtml.g.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Hospital\_ErrorNotExist.cshtml.g.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Hospital\_PagingPartial.cshtml.g.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Profile\Add.cshtml.g.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Profile\Edit.cshtml.g.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Profile\List.cshtml.g.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Profile\_ErrorNotExist.cshtml.g.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Profile\_PagingPartial.cshtml.g.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\ProfileDetail\BatchEdit.cshtml.g.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\ProfilePersonnel\BatchEdit.cshtml.g.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\ProfilePersonnel\_PagingPartialPersonnelList.cshtml.g.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\ProfilePersonnel\_PagingPartialPersonnelWhichIsNotIncludeList.cshtml.g.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\User\Add.cshtml.g.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\User\Edit.cshtml.g.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\User\List.cshtml.g.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\User\_ErrorNotExist.cshtml.g.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\User\_PagingPartial.cshtml.g.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\NeedForBlood\AddForCurrentUser.cshtml.g.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\NeedForBlood\EditForCurrentUser.cshtml.g.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\NeedForBlood\ListForCurrentUser.cshtml.g.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\NeedForBlood\_ErrorNotExist.cshtml.g.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\NeedForBlood\_PagingPartial.cshtml.g.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\HealthyDuty.Web.exe
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\HealthyDuty.Web.deps.json
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\HealthyDuty.Web.runtimeconfig.json
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\HealthyDuty.Web.runtimeconfig.dev.json
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\HealthyDuty.Web.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\HealthyDuty.Web.pdb
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\HealthyDuty.Web.Views.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\HealthyDuty.Web.Views.pdb
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\System.Linq.Dynamic.Core.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\HealthyDuty.Data.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\HealthyDuty.Web.Business.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\HealthyDuty.Web.Business.pdb
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\bin\Debug\netcoreapp3.1\HealthyDuty.Data.pdb
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\HealthyDuty.Web.csprojAssemblyReference.cache
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\HealthyDuty.Web.AssemblyInfoInputs.cache
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\HealthyDuty.Web.AssemblyInfo.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\HealthyDuty.Web.csproj.CoreCompileInputs.cache
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\HealthyDuty.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\HealthyDuty.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\HealthyDuty.Web.RazorAssemblyInfo.cache
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\HealthyDuty.Web.RazorAssemblyInfo.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\HealthyDuty.Web.TagHelpers.input.cache
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\HealthyDuty.Web.TagHelpers.output.cache
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\HealthyDuty.Web.RazorCoreGenerate.cache
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Add.cshtml.g.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Edit.cshtml.g.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Auth\List.cshtml.g.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Auth\_ErrorNotExist.cshtml.g.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Auth\_PagingPartial.cshtml.g.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\BloodGroup\Add.cshtml.g.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\BloodGroup\Edit.cshtml.g.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\BloodGroup\List.cshtml.g.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\BloodGroup\_ErrorNotExist.cshtml.g.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\BloodGroup\_PagingPartial.cshtml.g.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\City\Add.cshtml.g.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\City\Edit.cshtml.g.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\City\List.cshtml.g.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\City\_ErrorNotExist.cshtml.g.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\City\_PagingPartial.cshtml.g.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Hospital\Add.cshtml.g.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Hospital\Edit.cshtml.g.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Hospital\List.cshtml.g.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Hospital\_ErrorNotExist.cshtml.g.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Hospital\_PagingPartial.cshtml.g.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\NeedForBlood\AddForCurrentUser.cshtml.g.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\NeedForBlood\EditForCurrentUser.cshtml.g.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\NeedForBlood\ListForCurrentUser.cshtml.g.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\NeedForBlood\_ErrorNotExist.cshtml.g.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\NeedForBlood\_PagingPartial.cshtml.g.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Personnel\Add.cshtml.g.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Personnel\Edit.cshtml.g.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Personnel\List.cshtml.g.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Personnel\Login.cshtml.g.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Personnel\NotAuthorized.cshtml.g.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Personnel\_ErrorNotExist.cshtml.g.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Personnel\_PagingPartial.cshtml.g.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\ProfileDetail\BatchEdit.cshtml.g.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\ProfilePersonnel\BatchEdit.cshtml.g.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\ProfilePersonnel\_PagingPartialPersonnelList.cshtml.g.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\ProfilePersonnel\_PagingPartialPersonnelWhichIsNotIncludeList.cshtml.g.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Profile\Add.cshtml.g.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Profile\Edit.cshtml.g.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Profile\List.cshtml.g.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Profile\_ErrorNotExist.cshtml.g.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Profile\_PagingPartial.cshtml.g.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ErrorMessagePartial.cshtml.g.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout1.cshtml.g.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\User\Add.cshtml.g.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\User\Edit.cshtml.g.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\User\List.cshtml.g.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\User\_ErrorNotExist.cshtml.g.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\User\_PagingPartial.cshtml.g.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\HealthyDuty.Web.RazorTargetAssemblyInfo.cache
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\HealthyDuty.Web.RazorTargetAssemblyInfo.cs
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\HealthyDuty.Web.Views.pdb
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\HealthyDuty.Web.csproj.CopyComplete
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\staticwebassets\HealthyDuty.Web.StaticWebAssets.Manifest.cache
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\staticwebassets\HealthyDuty.Web.StaticWebAssets.xml
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\HealthyDuty.Web.dll
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\HealthyDuty.Web.pdb
+C:\Users\sinem\OneDrive\Masaüstü\HealthyDuty\HealthyDuty.Web\obj\Debug\netcoreapp3.1\HealthyDuty.Web.genruntimeconfig.cache

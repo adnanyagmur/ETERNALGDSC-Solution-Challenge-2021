@@ -1,0 +1,12 @@
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web.Business\bin\Debug\netstandard2.1\HealthyDuty.Business.deps.json
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web.Business\bin\Debug\netstandard2.1\HealthyDuty.Business.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web.Business\bin\Debug\netstandard2.1\HealthyDuty.Business.pdb
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web.Business\bin\Debug\netstandard2.1\HealthyDuty.Data.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web.Business\bin\Debug\netstandard2.1\HealthyDuty.Data.pdb
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web.Business\obj\Debug\netstandard2.1\HealthyDuty.Business.csprojAssemblyReference.cache
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web.Business\obj\Debug\netstandard2.1\HealthyDuty.Business.AssemblyInfoInputs.cache
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web.Business\obj\Debug\netstandard2.1\HealthyDuty.Business.AssemblyInfo.cs
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web.Business\obj\Debug\netstandard2.1\HealthyDuty.Business.csproj.CoreCompileInputs.cache
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web.Business\obj\Debug\netstandard2.1\HealthyDuty.Business.csproj.CopyComplete
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web.Business\obj\Debug\netstandard2.1\HealthyDuty.Business.dll
+D:\Test Projects\HealthyDuty\HealthyDuty\HealthyDuty.Web.Business\obj\Debug\netstandard2.1\HealthyDuty.Business.pdb
