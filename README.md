@@ -76,3 +76,24 @@ More. [[Learn More][auth_product]]
 [auth_badge_pub]: https://img.shields.io/pub/v/firebase_auth.svg
 
 [auth_badge_ci]: https://github.com/FirebaseExtended/flutterfire/workflows/firebase_auth/badge.svg
+
+
+
+
+
+
+
+
+Healthy Duty Web Page 
+
+Used Technologies:
+
+Built with Asp.net Mvc
+Entity Framework is used
+Data addition, update and deletion operations are performed by using sql database
+Ready theme is used in Front - End
+Bootstrap is used
+
+For Sql database setup :
+
+Required file path = HealthyDuty_doc\Script\healthy-duty-25032021.sql
